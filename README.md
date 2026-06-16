@@ -84,3 +84,5 @@ Forecasting
 Business Intelligence
 
 Data Storytelling
+
+![Executive_Dashboard](assets/executive_dashboard.png)

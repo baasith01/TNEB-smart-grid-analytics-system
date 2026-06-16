@@ -86,3 +86,10 @@ Business Intelligence
 Data Storytelling
 
 ![Executive_Dashboard](assets/executive_dashboard.png)
+
+![Transformers](assets/Transformer_Intelligence.png)
+
+![Forecasting_Graph](<assets/TNEB electricity demand trend.png>)
+
+![future_prediction](assets/future_prediction.png)
+
